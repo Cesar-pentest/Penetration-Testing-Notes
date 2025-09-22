@@ -6,7 +6,7 @@ This repository serves as a public archive of my learning journey and methodolog
 
 ## 📂 Repository Structure
 
-*   **`/Retired`**: Complete writeups for retired machines. These contain no spoilers for active boxes.
+*   **`/Machines`**: Complete writeups for retired machines. These contain no spoilers for active boxes.
 *   **`/Templates`**: The templates I use to maintain consistency and professionalism in my reports.
 
 ## 🧪 My Methodology
@@ -23,6 +23,7 @@ My approach follows a structured penetration testing methodology:
 ### 🔓 Retired Machines
 | Machine Name | Difficulty | Type | Writeup |
 | :----------- | :--------- | :--- | :------ |
+(E.G)
 | OpenAdmin | Easy | Linux | [📝](./Retired/OpenAdmin/) |
 | ScriptKiddie | Easy | Linux | [📝](./Retired/ScriptKiddie/) |
 | *More machines coming soon* | | | |
