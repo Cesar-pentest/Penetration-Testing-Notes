@@ -23,9 +23,7 @@ My approach follows a structured penetration testing methodology:
 ### 🔓 Retired Machines
 | Machine Name | Difficulty | Type | Writeup |
 | :----------- | :--------- | :--- | :------ |
-(E.G)
-| OpenAdmin | Easy | Linux | [📝](./Retired/OpenAdmin/) |
-| ScriptKiddie | Easy | Linux | [📝](./Retired/ScriptKiddie/) |
+| EPSILON | Medium | Linux | [📝](./Machines/HTB/Epsilon) |
 | *More machines coming soon* | | | |
 
 ## 📜 Certifications & Education
