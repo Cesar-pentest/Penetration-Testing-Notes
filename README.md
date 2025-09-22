@@ -39,7 +39,7 @@ My approach follows a structured penetration testing methodology:
 
 *   **LinkedIn:** [César López Oliva](https://www.linkedin.com/in/c%C3%A9sar-lopez-oliva-2145b0216/)
 *   **Hack The Box:** [Pirata45](https://app.hackthebox.com/profile/overview)
-*   **Email:** cesarlopezoliva53@gmail.com
+*   **Email:** cesarlopezoliva53@gmail.com | cesaroliva44@hotmail.com
 
 ---
 
