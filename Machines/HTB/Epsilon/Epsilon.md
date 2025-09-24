@@ -207,7 +207,7 @@ Response: Your order of "49" has been placed successfully.
 **Description:** Internal exploration revealed potential escalation vectors: scripts and `backup.sh` in `/usr/bin/` with sensitive permissions.
 **CVSS:** High risk (dependent on exploit vector; under investigation).
 
-**Evidence:** Screenshots and command outputs (annexes: `screenshots/` and `filelists/`).
+**Evidence:** 
 
 **Remediation:** Review permissions/ownership of binaries; audit cron jobs; enforce least privilege.
 
