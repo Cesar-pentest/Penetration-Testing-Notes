@@ -1,4 +1,5 @@
-# Penetration Test Report: EPSILON (Revised Version)
+# Penetration Test Report: EPSILON
+
 
 **Date:** 22/09/2025
 **Platform:** Hack The Box
