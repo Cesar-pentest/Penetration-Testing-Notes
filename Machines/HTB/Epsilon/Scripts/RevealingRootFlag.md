@@ -1,3 +1,6 @@
+```bash
+#!/usr/bin/bash
+
 TARGET="/root/root.txt"; BACK="/opt/backups"; OUT="/var/backups/web_backups"; TMP="/tmp";
 echo "[*] watcher: esperando primer tar en $BACK";
 while true; do
@@ -25,3 +28,4 @@ while true; do
   sleep 0.15
 done
 echo "[*] watcher terminado"
+```
