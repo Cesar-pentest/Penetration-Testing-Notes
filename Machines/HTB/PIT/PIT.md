@@ -1,4 +1,4 @@
-# Penetration Test Report: PIT (Revised)
+# Penetration Test Report: PIT
 
 **Date:** 26/09/2025  
 **Platform:** Hack The Box  
